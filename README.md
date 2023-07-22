@@ -1,8 +1,8 @@
 
-# Node Challenge
+# Node-Challenge
 
 ## Description
-This activity enables the terminal to generate a readMe file.
+This program will use Node in order to write a ReadMe file with ease!
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,23 +13,23 @@ This activity enables the terminal to generate a readMe file.
 - [Questions](#questions)
 
 ## Installation
-to install this application copy all code from this repo into a working directory, open a new termincal in said directory, and enter 'node index.js' into the terminal to have the question prompts appear.
+To install this app, copy all files from the repo to a directory. Open the terminal and type node index.js. Then answer the questions!
 
 ## Usage
-This app will take the information it is given and generate a readMe file for the user!
+Follow all prompts and answer all questions to have your ReadMe file generated!
 
 ## License
 This application is covered under the MIT license.
 
 ## Contributing
-Feel free to add code !
+Recommendations are needed! feel free to reach out.
 
 ## Tests
-Arriving late 2023!
+Coming Soon!
 
 ## Questions
 For any questions or inquiries, please reach out to me via GitHub or email:
 
-GitHub: [carsov2](https://github.com/carsov2)
+GitHub: [Carsov2](https://github.com/Carsov2)
 
 Email: carsonkennedy2018@gmail.com
